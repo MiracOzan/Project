@@ -9,5 +9,6 @@
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="javax.persistence" level="project" />
     <orderEntry type="library" name="hibernate-core-5.2.11.Final" level="project" />
+    <orderEntry type="library" name="hibernate-search-orm-5.8.0.Final" level="project" />
   </component>
 </module>
